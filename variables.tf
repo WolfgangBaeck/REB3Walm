@@ -90,3 +90,4 @@ variable "public_containers" {
   default     = ["Scripts", "Data"]
   description = "Name of the individual containers for the public storage account"
 }
+
